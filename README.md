@@ -2,7 +2,7 @@
 
 <!--
 **Jorge-A-Copado/Jorge-A-Copado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Sobre mi:
 
 - 🔭 Actualmente estudio Ingeniería en Sistemas Computacionales en ITT.
@@ -13,7 +13,6 @@ Sobre mi:
 - 💥No me hablen de anime porque no tengo autocontrol.
 - 😄 Fuí jugador para el equipo universitario de ITT para participar en un torneo relámpago organizado por University Esports en 2021
 - ⚡ Soy muy activo en Discord, Mi id: !Cøpa#0866
--->
                                              Horario Escolar actual
 | Hora  | Lunes            | Martes           | Miercoles        | Jueves           | Viernes          |
 |-------|------------------|------------------|------------------|------------------|------------------|
