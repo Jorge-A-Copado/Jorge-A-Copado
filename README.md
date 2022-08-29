@@ -20,13 +20,13 @@ Sobre mi:
 |-------|------------------|------------------|------------------|------------------|------------------|
 | 07:00 |                  |                  |                  |                  |                  |
 | 08:00 |                  |                  |                  |                  |                  |
-| 09:00 | C. Vectorial     | C. Vectorial     | C. Vectorial     | C. Vectorial     | C. Vectorial     |
+| 09:00 |                  |                  |                  |                  |                  |
 | 10:00 |                  |                  |                  |                  |                  |
-| 11:00 |                  |                  |                  |                  |                  |
-| 12:00 |                  |                  |                  |                  |                  |
-| 13:00 | Ing. Software    | Ing. Software    | Ing. Software    | Ing. Software    | Ing. Software    |
-| 14:00 | L. Interfaz      | L. Interfaz      | L. Interfaz      | L. Interfaz      | L. Interfaz      |
-| 15:00 |                  |                  |                  |                  |                  |
-| 16:00 |                  |                  |                  |                  |                  |
-| 17:00 | L. y Automatas I | L. y Automatas I | L. y Automatas I | L. y Automatas I | L. y Automatas I |
+| 11:00 |      Ec.Dif      |     Ec.Dif       |      Ec.Dif      |      Ec.Dif      |   Ec.Dif         |
+| 12:00 |     Simulacion   |    Simulacion    |   Simulacion     | Simulacion       |     Simulacion   |
+| 13:00 | Taller de Inv    | Taller de Inv    | Taller de Inv    | Taller de Inv    | Taller de Inv    |
+| 14:00 | Taller de BD     | Taller de BD     | Taller de BD     | Taller de BD     | Taller de BD     |
+| 15:00 | L. y Automatas I | L. y Automatas I | L. y Automatas I | L. y Automatas I |L. y Automatas I  |
+| 16:00 |      Redes       |  Redes           |    Redes         |    Redes         |       Redes      |
+| 17:00 |                  |                  |                  |                  |                  |
 | 18:00 |                  |                  |                  |                  |                  |
