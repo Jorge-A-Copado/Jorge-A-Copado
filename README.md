@@ -1,4 +1,6 @@
 ### Que tal 👋
+
+<img src="https://tenor.com/es-419/view/yato-noragami-noragami-yato-anime-thanks-gif-25957717.gif" width="498" height="278" />
 Sobre mi:
 
 - 🔭 Actualmente estudio Ingeniería en Sistemas Computacionales en ITT.
