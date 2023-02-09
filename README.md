@@ -33,6 +33,6 @@ Sobre mi:
 
 
 
-<img src="https://tenor.com/es-419/view/blue-lock-anime-gif-27048591.gif" width="40" height="40" />
+<img src="https://tenor.com/es-419/view/blue-lock-anime-gif-27048591.gif" width="478" height="278" />
 
 
