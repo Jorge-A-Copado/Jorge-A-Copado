@@ -33,5 +33,6 @@ Sobre mi:
 
 
 
-![Test](https://tenor.com/bZEJL.gif)
+<img src="https://tenor.com/bZEJL.gif" width="40" height="40" />
+
 
